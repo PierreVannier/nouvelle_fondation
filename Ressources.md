@@ -19,9 +19,29 @@
 
 [Infocratie : Numérique et crise de la démocratie](https://www.puf.com/infocratie), par Byung-Chul Han
 
+[La crise dans le récit](https://www.puf.com/crise-dans-le-recit), par Byung-Chul Han
+
+[La société palliative](https://www.puf.com/la-societe-palliative), par Byung-Chul Han
+
+[L'expulsion de l'autre](https://www.puf.com/lexpulsion-de-lautre), par Byung-Chul Han
+
+[La société de la transparence](https://www.puf.com/la-societe-de-transparence), par Byung-Chul Han
+
+[La fin des choses, Boulversements du monde de la vie](https://actes-sud.fr/la-fin-des-choses-0), par Byung-Chul Han
+
+[Vita contemplativa ou de l'inactivité](https://actes-sud.fr/vita-contemplativa), par Byung-Chul Han
+
+[La disparition des rituels, pour une topologie du temps présent](https://actes-sud.fr/la-disparition-des-rituels), par Byiung-Chul Han
+
+[Le Désert de nous-mêmes](https://www.lechappee.org/collections/pour-en-finir-avec/le-desert-de-nous-memes), par Eric Sadin
+
 [Apocalypse Nerds](https://www.editionsdivergences.com/livre/apocalypse-nerds), par Nastasia Hadjadji et Olivier Tesquet
 
 [Explosive Modernité](https://www.gallimard.fr/catalogue/explosive-modernite/9782073026484), par Eva Illouz
+
+[Le Bluff technologique](https://www.fayard.fr/livre/le-bluff-technologique-9782818502273/), par Jacques Ellul
+
+
 
 ## Sites 
 
