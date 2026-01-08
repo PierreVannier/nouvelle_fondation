@@ -5,4 +5,4 @@ Ce dépôt contient les ressources liées à notre mouvement.
 
 [Lien vers notre manifeste](/Manifeste.md)
 
-[Texte résonance vivante](/Résonnance.md)
+[Texte résonance vivante](/Résonance.md)
