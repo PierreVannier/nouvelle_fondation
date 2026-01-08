@@ -19,9 +19,9 @@
 
 [Infocratie : Numérique et crise de la démocratie](https://www.puf.com/infocratie), par Byung-Chul Han
 
-[Apocalypse Nerds][https://www.editionsdivergences.com/livre/apocalypse-nerds], par Nastasia Hadjadji et Olivier Tesquet
+[Apocalypse Nerds](https://www.editionsdivergences.com/livre/apocalypse-nerds), par Nastasia Hadjadji et Olivier Tesquet
 
-[Explosive Modernité][https://www.gallimard.fr/catalogue/explosive-modernite/9782073026484], par Eva Illouz
+[Explosive Modernité](https://www.gallimard.fr/catalogue/explosive-modernite/9782073026484), par Eva Illouz
 
 ## Sites 
 
