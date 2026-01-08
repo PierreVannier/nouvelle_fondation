@@ -11,4 +11,5 @@ Ce dépôt contient les ressources liées à notre mouvement.
 
 ## Nos membres
 [Pierre Vannier](https://www.linkedin.com/in/pierrevannier/)
+[Nils Lesieur](https://fr.linkedin.com/in/nilslesieur)
 
