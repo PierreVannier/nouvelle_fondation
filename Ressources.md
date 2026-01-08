@@ -22,6 +22,13 @@
 ## Sites 
 
 ## Videos 
+[The Great Hack : L'affaire Cambridge Analytica](https://www.netflix.com/fr/title/80117542), documentaire Netflix
+
+[Derrière nos écrans de fumée](https://www.netflix.com/fr/title/81254224), documentaire Netflix
+
+[Les sacrifiés de l'IA](https://www.france.tv/documentaires/documentaires-societe/6888928-les-sacrifies-de-l-ia.html), documentaire France TV
+
+
 
 ## Podcasts
 
