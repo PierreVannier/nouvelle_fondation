@@ -56,4 +56,4 @@
 
 ## Podcasts
 
-## Personnesd'intêret sur le sujet
+## Personnes d'intêret sur le sujet

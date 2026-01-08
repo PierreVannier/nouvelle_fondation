@@ -8,3 +8,7 @@ Ce dépôt contient les ressources liées à notre mouvement.
 [Texte résonance vivante](/Résonance.md)
 
 [Ressources](/Ressources.md)
+
+## Nos membres
+[Pierre Vannier](https://www.linkedin.com/in/pierrevannier/)
+
