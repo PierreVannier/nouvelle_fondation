@@ -57,3 +57,10 @@
 ## Podcasts
 
 ## Personnes d'intêret sur le sujet
+- Timnit Gebru
+- Fei-Fei Li
+- Rediet Abebe
+- Joy Buolamwini
+- Margaret Mitchell
+- Niloufar Salehi
+- Meredith Whittaker
